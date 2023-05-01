@@ -1,0 +1,4 @@
+﻿  RenderingCore.cpp
+  SpriteRenderer.cpp
+  코드를 생성하고 있습니다...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: 'x64' 모듈 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
